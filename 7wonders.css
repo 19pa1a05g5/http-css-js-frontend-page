@@ -1,0 +1,33 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+body{
+	font-family: 'Grandstander', cursive;
+}
+#art1{
+	height:655px;
+	width: 100%;
+	background-image: url('https://iso.500px.com/wp-content/uploads/2015/10/mohammed_cover-1500x1000.jpeg');
+	color:white;
+}
+#mainheading{
+	text-align: center;
+	margin-top: 200px;
+}
+#art2{
+	margin-top: 50px;
+	text-align: center;
+}
+#info{
+	margin-left: 250px;
+	margin-top: 50px;
+	width: 800px;
+}
+#footer{
+	background-color: black;
+	height: 150px;
+	width: 100%;
+	text-align: center;
+	color:white;
+}
